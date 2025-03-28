@@ -44,7 +44,7 @@ This repository contains various Data Science research projects conducted using 
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Sihara Vikas/Data-Analytics.git
    ```
 2. Install dependencies:
    ```bash
